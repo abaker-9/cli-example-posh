@@ -44,15 +44,15 @@ Shows status of all devices
 
 Shows status of multiple devices
 .EXAMPLE
-.\sthelper turnon Breakfast
+.\sthelper.ps1 turnon Breakfast
 
 Turns a device on
 .EXAMPLE
-.\sthelper turnoff Breakfast
+.\sthelper.ps1 turnoff Breakfast
 
 Turns a device off
 .EXAMPLE
-.\sthelper turnon Breakfast -level 80 -color blue -verbose -whatif
+.\sthelper.ps1 turnon Breakfast -level 80 -color blue -verbose -whatif
 
 Turns a device on with colors and level in whatif mode to see json without sending
 .NOTES
