@@ -7,7 +7,7 @@ The sthelper.ps1 script is a CLI implementation that uses REST to get devices an
 ## Requirements
 
 1. Powershell 5.1+
-2. Access to SmarthThings Account
+2. Access to SmartThings Account
 
 ## Installation
 
